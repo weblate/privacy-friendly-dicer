@@ -26,7 +26,7 @@
     <string name="help_general_description">Dicer peut être utilisé pour jeter entre un et dix dés à six faces. Choisissez le nombre de dés avec le curseur.</string>
     <string name="help_general_dicing">Appuyez sur le bouton pour jeter le dé. Le dé peut aussi être jeté en secouant le téléphone si l\'option est activée dans les paramètres.</string>
     <string name="help_privacy_heading">Vie privée</string>
-    <string name="help_permissions_heading">Permissions</string>
+    <string name="help_permissions_heading">Autorisations</string>
     <string name="help_permissions_description">Dicer utilise la permission de vibration pour vibrer après l\'affichage d\'un nouveau résultat. Si la permission n\'est pas accordée, l\'appareil ne vibrera pas.</string>
     <!-- WelcomeDialog-->
     <string name="help_button">Voir l\'aide</string>
@@ -61,4 +61,8 @@
     <string name="dice_mode_dice_label">Dé :</string>
     <string name="manage_dice_mode_delete_dialog_title">Supprimer le mode de dé %s</string>
     <string name="preference_deleteDiceModeDialog_title">Confirmer la suppression du mode de dé</string>
+    <string name="slide1_text">Choisissez le nombre de dés grâce au curseur. Jetez les dés en appuyant sur le bouton ou en secouant le smartphone.</string>
+    <string name="dialog_select_game_mode_first_desc">Actuellement, aucun mode de dés n\'est sélectionné. Veuillez en sélectionner un ou en créer un.</string>
+    <string name="manage_dice_mode_delete_dialog_desc">Êtes-vous certain de vouloir supprimer ce mode de dès ? Cette action est définitive.</string>
+    <string name="preference_deleteDiceModeDialog_desc">Si activé, vous devez confirmer la suppression d\'un mode de dès pour éviter une suppression accidentelle.</string>
 </resources>
